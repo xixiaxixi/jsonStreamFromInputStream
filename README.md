@@ -1,5 +1,6 @@
-# jsonStreamViaTcp
-jsonStreamViaTcp
+# jsonStreamFromInputStream
+jsonStreamFromInputStream provides a solution of 
+getting jsonObject or jsonArray via tcp or other inputstream steadily.
 
 JsonReader class
 provides a simple implement which can constantly get jsonObject or jsonArray from InputStream.
